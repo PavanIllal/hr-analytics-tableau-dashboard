@@ -33,9 +33,9 @@ and organizational performance.
 
 <h2 id="tools">🛠 Tools & Technologies</h2>
 <ul>
-    <li>Power BI – Data visualization and dashboard creation</li>
-    <li>SQL – Data extraction and transformation</li>
-    <li>Python – Data cleaning and preprocessing</li>
+    <li>Tableau</li>
+    <li>Data Cleaning & Transformation</li>
+    <li>Data Visualization</li>
 </ul>
 
 <hr>
@@ -80,7 +80,7 @@ and organizational performance.
 <p>
 <b>Pavan</b><br>
 Data Analyst<br>
-📧 Email: psillal4321@gmail.com<br>
+📧 Email: psillal4321@gmail.com<
 🔗 <a href="https://www.linkedin.com/in/pavan-479173238">LinkedIn Profile</a>
 </p>
 

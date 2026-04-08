@@ -80,7 +80,7 @@ and organizational performance.
 <p>
 <b>Pavan</b><br>
 Data Analyst<br>
-📧 Email: psillal4321@gmail.com<
+📧 Email: psillal4321@gmail.com<br>
 🔗 <a href="https://www.linkedin.com/in/pavan-479173238">LinkedIn Profile</a>
 </p>
 

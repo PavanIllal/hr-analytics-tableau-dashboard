@@ -76,13 +76,14 @@ and organizational performance.
 
 <hr>
 
-<h2 id="contact">Author & Contact</h2>
-<p>
-<b>Pavan</b><br>
-Data Analyst<br>
-📧 Email: psillal4321@gmail.com<br>
-🔗 <a href="https://www.linkedin.com/in/pavan-479173238">LinkedIn Profile</a>
-</p>
+<hr>
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Pavan**  
+Data Analyst  
+📧 Email: psillal4321@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pavan-479173238) 
+
 
 </body>
 </html>
